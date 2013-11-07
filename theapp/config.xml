@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.bencbond.phonegaplogin"
+    version   = "1.0.0">
+
+<name>Phonegap Login System</name>
+
+<description>
+This app creates a login system for phonegap
+</description>
+
+<author href="https://bencbond.com" email="bencbond@gmail.com">
+Ben Bond
+</author>
+
+<preference name="fullscreen" value="true" />
+<preference name="show-splash-screen-spinner" value="true" />
+<feature name="http://api.phonegap.com/1.0/battery"/>
+<feature name="http://api.phonegap.com/1.0/camera"/>
+<feature name="http://api.phonegap.com/1.0/contacts"/>
+<feature name="http://api.phonegap.com/1.0/file"/>
+<feature name="http://api.phonegap.com/1.0/geolocation"/>
+<feature name="http://api.phonegap.com/1.0/media"/>
+<feature name="http://api.phonegap.com/1.0/network"/>
+<feature name="http://api.phonegap.com/1.0/notification"/>
+
+</widget>
