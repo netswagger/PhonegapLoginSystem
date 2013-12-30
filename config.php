@@ -14,7 +14,7 @@
     $siteName = 'Mobile Login';
     $domain = 'bencbond.com/login';
     $host = 'localhost';
-    $user = 'bencbo5_json';
-    $pass = 'Allabout$1';
+    $user = '********';
+    $pass = '********';
     $db = 'bencbo5_json';
  }
